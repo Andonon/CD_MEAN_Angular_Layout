@@ -1,3 +1,12 @@
+# CD_MEAN_Angular_Layout
+Troy Center troycenter1@gmail.com July 2017
+Coding Dojo MEAN stack, Angular Fundamentals, Layout Assignment
+
+## Layout
+Replicate the following wireframe layout. Remember, each component holds it's own content, so each component should have it's own styling.
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-Layout.png" alt="Coding Dojo Assignment Image">
+
 # Layout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
