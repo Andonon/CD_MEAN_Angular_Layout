@@ -1,0 +1,27 @@
+#header {
+    margin: auto;
+    height: 800px;
+    width: 900px;
+}
+#main {
+    display: inline-block;
+    height: 600px;
+    width: 900px;
+}
+#app-nav {
+    display: inline-block;
+    height: 600px;
+    width: 225px;
+    position: relative; 
+    top: 50px;
+    vertical-align: top;
+}
+#app-main {
+    display: inline-block;
+    width: 625px;
+    height: 600px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
